@@ -1,0 +1,95 @@
+
+body {
+    background-color: gray;
+    margin: 0px;
+    border: 0px;
+    font-size: 1.5em;
+}
+
+main{
+
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+footer{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+
+a:link, a:visited, a:active{
+	text-decoration:none;
+	color:#000;
+}
+a:hover{
+	text-decoration:underline;
+	color: darkgoldenrod;
+}
+
+p {
+    text-indent: 10%;
+    text-align: justify;
+    line-height:1.5;
+}
+
+h4{
+    border-bottom: solid gray;
+    border-left: solid gray 10px;
+    padding: 5px;
+    background-image: url(imagens/bandeira1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+header{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    text-align: center;
+    
+    
+}
+
+.container{
+    width: 1120px;
+    height: auto;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 10px; 
+}
+
+.link {
+    background-image: url(imagens/fundo-f1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.lista1 {
+    list-style-type: none;
+    padding-left: 120px;
+    
+}
+
+.tabela1{
+    border-bottom: dotted 1px gray ;
+}
+
+th, tr, td{
+    border-bottom: dotted 1px gray;
+    border-bottom: dotted 1px gray;
+    text-align: left;
+}
+ol {
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
