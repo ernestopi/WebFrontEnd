@@ -15,6 +15,11 @@ footer {
     padding: 10px;
 }
 
+p {
+    margin: 5px;
+    padding: 5px;
+}
+
 .container {
     background-color: gray;
 
