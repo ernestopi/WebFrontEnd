@@ -1,0 +1,45 @@
+body {
+  background-color: #e8ffd1;
+  margin: 10px;
+}
+
+
+main {
+  background-color: #dcdcdc;
+  margin: 10px;
+}
+
+h3 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-bottom: solid gray 1px;
+}
+
+p {
+  text-align: justify;
+  text-indent: 10px;
+}
+
+
+
+.card-title {
+  border-bottom: 1px dotted gray;
+}
+
+.row {
+  margin: 10px;
+
+}
+
+#cards {
+  padding: 2px;
+}
+
+#nav1 {
+  margin-top: 2px;
+  padding: 5px;
+}
+
+#d1 {
+  background-color: red;
+}
